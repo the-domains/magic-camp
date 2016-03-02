@@ -1,28 +1,40 @@
-name: Magic Camp
 favicon: null
-layout_spectrum: 0.12858497048728168
-typography_spectrum: 0.6243334608152509
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Magic Camp
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.39259552164003253
-  lightness: 0.032985921716317534
-  saturation: 0.6478253160603344
-  rhythmicContrast: 0.475859796628356
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.6326165
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
