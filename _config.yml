@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Magic Camp
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.6326165
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7724015
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#396591'
     - '#C6E0E9'
     - '#16D8E0'
     - '#BD91E1'
     - '#2730C6'
-  rhythmicContrast: 0.06810036
-typography_spectrum: 0.6326165
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: Magic Camp
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0.5
+purpose: []
