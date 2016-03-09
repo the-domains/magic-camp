@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-01T23:18:10.616Z'
-dateModified: '2016-03-01T23:18:10.314Z'
+datePublished: '2016-03-09T22:31:33.349Z'
+dateModified: '2016-03-02T22:46:37.429Z'
 title: "Ready when you are.\_"
 author: []
+sourcePath: _posts/2016-03-01-ready-when-you-are.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-ready-when-you-are.md
-published: true
 url: ready-when-you-are/index.html
 _type: Article
 
