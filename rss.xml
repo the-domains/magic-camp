@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Magic Camp]]></title>
         <description><![CDATA[Magic Camp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/magic-camp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 20:52:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 20:22:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/magic-camp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[And now let's do some other stuff, it won't take too much time.Or In the mean time. Let's make a quote, yes? ]]></title>
+            <description><![CDATA[<article><h1>And now let's do some other stuff, it won't take too much time.Or In the mean time. Let's make a quote, yes? </h1><p>So this is a post of sorts. Is is truly any different? I think not. In the end, it comes down to text, images, and videos. And it comes down to their relations, ie how you organize all that. Yes, you must organize in an instructive and constructive manner; that's matters. But above all, this is about content. Content. Content. Content. Organizing compelling thought and conveying it in a convincing manner. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b7f17b-e71b-48be-8c77-61460ff5bf7f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/magic-camp/and-now-lets-do-some-other-stuff-it-wont-take-too-much-ti/index.html</link>
+            <guid isPermaLink="false">d2859a4a-cd6f-43c4-93b8-504a3ee41a37</guid>
+            <pubDate>Wed, 18 May 2016 20:22:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[And this is that]]></title>
             <description><![CDATA[<article><h1>And this is that</h1><p>This is this</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf82b5f3472cb873a697b13a33b421815f86697.jpg"></article>]]></description>
-            <link>undefinedand-this-is-that/index.html</link>
+            <link>https://thegrid.ai/magic-camp/and-this-is-that/index.html</link>
             <guid isPermaLink="false">b65600c5-8c24-4f77-baae-429f68c0f3f7</guid>
             <pubDate>Mon, 18 Apr 2016 20:51:37 GMT</pubDate>
         </item>
