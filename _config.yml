@@ -1,7 +1,7 @@
 name: Magic Camp
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6326165
+typography_spectrum: 0.22793
 collections:
   - index:
       path: /
